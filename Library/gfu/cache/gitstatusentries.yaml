@@ -13,12 +13,1062 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-12-10T22:32:00.706-06:00
-  initializedAtString: 2021-12-10T22:31:52.350-06:00
+  lastUpdatedAtString: 2021-12-10T22:39:47.864-06:00
+  initializedAtString: 2021-12-10T22:39:26.816-06:00
   entries:
+  - path: Capstone.sln
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Capstone.sln
+    projectPath: Capstone.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ArtifactDB
     fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\ArtifactDB
     projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\01\01725038a5681a0f221288eac9ca2954
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\01\01725038a5681a0f221288eac9ca2954
+    projectPath: Library\Artifacts\01\01725038a5681a0f221288eac9ca2954
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\02\0260e2fdcda0735b67af8cdc083298e3
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\02\0260e2fdcda0735b67af8cdc083298e3
+    projectPath: Library\Artifacts\02\0260e2fdcda0735b67af8cdc083298e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\04\04545f06428466d121157e27f919d84c
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\04\04545f06428466d121157e27f919d84c
+    projectPath: Library\Artifacts\04\04545f06428466d121157e27f919d84c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\07\07d30d6dd720b0989683594f0145209d
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\07\07d30d6dd720b0989683594f0145209d
+    projectPath: Library\Artifacts\07\07d30d6dd720b0989683594f0145209d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\09\09c98e1871d7dd1f077e3be991d975d9
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\09\09c98e1871d7dd1f077e3be991d975d9
+    projectPath: Library\Artifacts\09\09c98e1871d7dd1f077e3be991d975d9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0a\0ae82e812e927f1dc30646889fa3bf3d
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\0a\0ae82e812e927f1dc30646889fa3bf3d
+    projectPath: Library\Artifacts\0a\0ae82e812e927f1dc30646889fa3bf3d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0b\0b3bc39ec406b8155c48ac41027e6c3c
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\0b\0b3bc39ec406b8155c48ac41027e6c3c
+    projectPath: Library\Artifacts\0b\0b3bc39ec406b8155c48ac41027e6c3c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0b\0b4f53a7d08ccb834ca3070bc65034e4
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\0b\0b4f53a7d08ccb834ca3070bc65034e4
+    projectPath: Library\Artifacts\0b\0b4f53a7d08ccb834ca3070bc65034e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0d\0dbd314237fc77fc74bac5614707ccfb
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\0d\0dbd314237fc77fc74bac5614707ccfb
+    projectPath: Library\Artifacts\0d\0dbd314237fc77fc74bac5614707ccfb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\11\11153a76df3c19c40f971a7a0dc3159d
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\11\11153a76df3c19c40f971a7a0dc3159d
+    projectPath: Library\Artifacts\11\11153a76df3c19c40f971a7a0dc3159d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\11\118fa1d71e124f7e11b23c793d24a4e5
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\11\118fa1d71e124f7e11b23c793d24a4e5
+    projectPath: Library\Artifacts\11\118fa1d71e124f7e11b23c793d24a4e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\11\11e51edfb7aa4098cd11f56321f6676c
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\11\11e51edfb7aa4098cd11f56321f6676c
+    projectPath: Library\Artifacts\11\11e51edfb7aa4098cd11f56321f6676c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\12\12d95d42655ff76d90247c9aef3f83c2
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\12\12d95d42655ff76d90247c9aef3f83c2
+    projectPath: Library\Artifacts\12\12d95d42655ff76d90247c9aef3f83c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\13\13503d097ae0be04b442e6ddb551d91f
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\13\13503d097ae0be04b442e6ddb551d91f
+    projectPath: Library\Artifacts\13\13503d097ae0be04b442e6ddb551d91f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\15\150be738e4e3f8b55ac58f257cbe81b4
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\15\150be738e4e3f8b55ac58f257cbe81b4
+    projectPath: Library\Artifacts\15\150be738e4e3f8b55ac58f257cbe81b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\15\158ddadf9f5be4d29f0829665389e25e
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\15\158ddadf9f5be4d29f0829665389e25e
+    projectPath: Library\Artifacts\15\158ddadf9f5be4d29f0829665389e25e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\17\17fee2eb1b40f55acd49952f2da94797
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\17\17fee2eb1b40f55acd49952f2da94797
+    projectPath: Library\Artifacts\17\17fee2eb1b40f55acd49952f2da94797
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\18\189347e72e83f955c34fe2b94f2b556b
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\18\189347e72e83f955c34fe2b94f2b556b
+    projectPath: Library\Artifacts\18\189347e72e83f955c34fe2b94f2b556b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\19\191ecff9a1a4b368e4d75448734c9e3c
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\19\191ecff9a1a4b368e4d75448734c9e3c
+    projectPath: Library\Artifacts\19\191ecff9a1a4b368e4d75448734c9e3c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1c\1c32cf4e8fe36e27d2bddf0111f2b5ec
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\1c\1c32cf4e8fe36e27d2bddf0111f2b5ec
+    projectPath: Library\Artifacts\1c\1c32cf4e8fe36e27d2bddf0111f2b5ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1c\1c73785e622737a7ffbad29cee49d040
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\1c\1c73785e622737a7ffbad29cee49d040
+    projectPath: Library\Artifacts\1c\1c73785e622737a7ffbad29cee49d040
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1c\1cdf2ed4b922da6c6fbd0e2590cb99f7
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\1c\1cdf2ed4b922da6c6fbd0e2590cb99f7
+    projectPath: Library\Artifacts\1c\1cdf2ed4b922da6c6fbd0e2590cb99f7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\20\20b2619387b62511c0388c0e2ec75dd9
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\20\20b2619387b62511c0388c0e2ec75dd9
+    projectPath: Library\Artifacts\20\20b2619387b62511c0388c0e2ec75dd9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\23\23805154a4bc1ddebfb3a6eef4e709e6
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\23\23805154a4bc1ddebfb3a6eef4e709e6
+    projectPath: Library\Artifacts\23\23805154a4bc1ddebfb3a6eef4e709e6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\23\23af6d768934bbb5c4d4a0b82e14cd16
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\23\23af6d768934bbb5c4d4a0b82e14cd16
+    projectPath: Library\Artifacts\23\23af6d768934bbb5c4d4a0b82e14cd16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\24\244e0e7a8da1e9f067da0540c03560de
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\24\244e0e7a8da1e9f067da0540c03560de
+    projectPath: Library\Artifacts\24\244e0e7a8da1e9f067da0540c03560de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\25\252ccd6c64cb8d5b65165f4fab919594
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\25\252ccd6c64cb8d5b65165f4fab919594
+    projectPath: Library\Artifacts\25\252ccd6c64cb8d5b65165f4fab919594
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\25\25d0bd0074291e41f5f2c947ec5ff533
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\25\25d0bd0074291e41f5f2c947ec5ff533
+    projectPath: Library\Artifacts\25\25d0bd0074291e41f5f2c947ec5ff533
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\26\2677d1b24a579badb042aeb820451b84
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\26\2677d1b24a579badb042aeb820451b84
+    projectPath: Library\Artifacts\26\2677d1b24a579badb042aeb820451b84
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\26\26a6d5c948be93d56fe9f1a55983647f
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\26\26a6d5c948be93d56fe9f1a55983647f
+    projectPath: Library\Artifacts\26\26a6d5c948be93d56fe9f1a55983647f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\26\26d218b20fdd306eb37483a322974b06
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\26\26d218b20fdd306eb37483a322974b06
+    projectPath: Library\Artifacts\26\26d218b20fdd306eb37483a322974b06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\26\26faf1faf89b25a1a35506d0fc9f58d1
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\26\26faf1faf89b25a1a35506d0fc9f58d1
+    projectPath: Library\Artifacts\26\26faf1faf89b25a1a35506d0fc9f58d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\27\270ec4839a711883fa60ea9c6ca505a2
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\27\270ec4839a711883fa60ea9c6ca505a2
+    projectPath: Library\Artifacts\27\270ec4839a711883fa60ea9c6ca505a2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\28\2829d26bd4f811413306fec90ecbbd0b
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\28\2829d26bd4f811413306fec90ecbbd0b
+    projectPath: Library\Artifacts\28\2829d26bd4f811413306fec90ecbbd0b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2e\2e2ed7edd3ac01394798d6599f981d1a
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\2e\2e2ed7edd3ac01394798d6599f981d1a
+    projectPath: Library\Artifacts\2e\2e2ed7edd3ac01394798d6599f981d1a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\31\314d9eb11380fce1f1b77a5a78e82f2a
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\31\314d9eb11380fce1f1b77a5a78e82f2a
+    projectPath: Library\Artifacts\31\314d9eb11380fce1f1b77a5a78e82f2a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\31\3159ba186f75f03e66036194ce0052df
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\31\3159ba186f75f03e66036194ce0052df
+    projectPath: Library\Artifacts\31\3159ba186f75f03e66036194ce0052df
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\32\32412e22ed9d2b475aa1ee611062991f
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\32\32412e22ed9d2b475aa1ee611062991f
+    projectPath: Library\Artifacts\32\32412e22ed9d2b475aa1ee611062991f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\34\3422c3e1cc8bcdf75deb9e4710b32ead
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\34\3422c3e1cc8bcdf75deb9e4710b32ead
+    projectPath: Library\Artifacts\34\3422c3e1cc8bcdf75deb9e4710b32ead
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\34\3424eedbfb375dd51fa7dc220e813788
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\34\3424eedbfb375dd51fa7dc220e813788
+    projectPath: Library\Artifacts\34\3424eedbfb375dd51fa7dc220e813788
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\34\349922cebb7a8d2cfae2f50b2229062b
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\34\349922cebb7a8d2cfae2f50b2229062b
+    projectPath: Library\Artifacts\34\349922cebb7a8d2cfae2f50b2229062b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\37\37dcb6fec01f8c49e2df3485f413eebc
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\37\37dcb6fec01f8c49e2df3485f413eebc
+    projectPath: Library\Artifacts\37\37dcb6fec01f8c49e2df3485f413eebc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3a\3a7ba93e21b745594825c6f85334d009
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\3a\3a7ba93e21b745594825c6f85334d009
+    projectPath: Library\Artifacts\3a\3a7ba93e21b745594825c6f85334d009
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3d\3db4e2bd509c2505e1bd6c4d0dde5544
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\3d\3db4e2bd509c2505e1bd6c4d0dde5544
+    projectPath: Library\Artifacts\3d\3db4e2bd509c2505e1bd6c4d0dde5544
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3f\3f0e4087a1be76851214759f7d314d20
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\3f\3f0e4087a1be76851214759f7d314d20
+    projectPath: Library\Artifacts\3f\3f0e4087a1be76851214759f7d314d20
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\41\4167b4eff0499ec27c3a5d1d346902a1
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\41\4167b4eff0499ec27c3a5d1d346902a1
+    projectPath: Library\Artifacts\41\4167b4eff0499ec27c3a5d1d346902a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\42\42a2241bb2c48349e2f0fad9cb28fccf
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\42\42a2241bb2c48349e2f0fad9cb28fccf
+    projectPath: Library\Artifacts\42\42a2241bb2c48349e2f0fad9cb28fccf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\44\443c4d4783b4ea985ecbeb78feb0b3f9
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\44\443c4d4783b4ea985ecbeb78feb0b3f9
+    projectPath: Library\Artifacts\44\443c4d4783b4ea985ecbeb78feb0b3f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\45\45bea2094a8f29910904cffca78216cf
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\45\45bea2094a8f29910904cffca78216cf
+    projectPath: Library\Artifacts\45\45bea2094a8f29910904cffca78216cf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\48\483e8d8d686134c16d953ed49633d545
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\48\483e8d8d686134c16d953ed49633d545
+    projectPath: Library\Artifacts\48\483e8d8d686134c16d953ed49633d545
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4b\4b9c736b9017d6eddc4dece630cbc842
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\4b\4b9c736b9017d6eddc4dece630cbc842
+    projectPath: Library\Artifacts\4b\4b9c736b9017d6eddc4dece630cbc842
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4c\4c0006f45f835d8c84a62cc24481b298
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\4c\4c0006f45f835d8c84a62cc24481b298
+    projectPath: Library\Artifacts\4c\4c0006f45f835d8c84a62cc24481b298
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4c\4c9c229751fdabefd67482405c9f834f
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\4c\4c9c229751fdabefd67482405c9f834f
+    projectPath: Library\Artifacts\4c\4c9c229751fdabefd67482405c9f834f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4c\4cabf1e540ea47209b7f345c5ec5c758
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\4c\4cabf1e540ea47209b7f345c5ec5c758
+    projectPath: Library\Artifacts\4c\4cabf1e540ea47209b7f345c5ec5c758
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4d\4d08d04b7d170106bfa682dc9c98e5b9
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\4d\4d08d04b7d170106bfa682dc9c98e5b9
+    projectPath: Library\Artifacts\4d\4d08d04b7d170106bfa682dc9c98e5b9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\50\502030fa7effdb3668b4c71907404a30
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\50\502030fa7effdb3668b4c71907404a30
+    projectPath: Library\Artifacts\50\502030fa7effdb3668b4c71907404a30
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\51\5101034794cf3fbe37bd47a9c0beecc9
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\51\5101034794cf3fbe37bd47a9c0beecc9
+    projectPath: Library\Artifacts\51\5101034794cf3fbe37bd47a9c0beecc9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\51\51ea92426760fe03fa478de188f6f5a6
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\51\51ea92426760fe03fa478de188f6f5a6
+    projectPath: Library\Artifacts\51\51ea92426760fe03fa478de188f6f5a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\52\52447aa833d92719b2db994fd06846a0
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\52\52447aa833d92719b2db994fd06846a0
+    projectPath: Library\Artifacts\52\52447aa833d92719b2db994fd06846a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\54\5414a31f1636988defc927a2fe94e4cb
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\54\5414a31f1636988defc927a2fe94e4cb
+    projectPath: Library\Artifacts\54\5414a31f1636988defc927a2fe94e4cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\55\55a075a130d0ad1f9aee8f6226c60c04
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\55\55a075a130d0ad1f9aee8f6226c60c04
+    projectPath: Library\Artifacts\55\55a075a130d0ad1f9aee8f6226c60c04
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\55\55ecf1c08592a38f57529897e92d7606
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\55\55ecf1c08592a38f57529897e92d7606
+    projectPath: Library\Artifacts\55\55ecf1c08592a38f57529897e92d7606
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\56\565ba5b5cb0d25874addc73bc3469fb5
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\56\565ba5b5cb0d25874addc73bc3469fb5
+    projectPath: Library\Artifacts\56\565ba5b5cb0d25874addc73bc3469fb5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\56\568d1bd35c2d6c2b11b91b3c2cb80649
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\56\568d1bd35c2d6c2b11b91b3c2cb80649
+    projectPath: Library\Artifacts\56\568d1bd35c2d6c2b11b91b3c2cb80649
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\59\596cfeb8e1fced4b494695f5c9fa65f3
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\59\596cfeb8e1fced4b494695f5c9fa65f3
+    projectPath: Library\Artifacts\59\596cfeb8e1fced4b494695f5c9fa65f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5a\5ad898642925969bd64881c84afec976
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\5a\5ad898642925969bd64881c84afec976
+    projectPath: Library\Artifacts\5a\5ad898642925969bd64881c84afec976
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5c\5c1e34e4346280f29516968656fff830
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\5c\5c1e34e4346280f29516968656fff830
+    projectPath: Library\Artifacts\5c\5c1e34e4346280f29516968656fff830
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5c\5c86d859ee75086c05f773aa16c91bcb
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\5c\5c86d859ee75086c05f773aa16c91bcb
+    projectPath: Library\Artifacts\5c\5c86d859ee75086c05f773aa16c91bcb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5d\5dbdefdeaace96477e5d5841358ae625
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\5d\5dbdefdeaace96477e5d5841358ae625
+    projectPath: Library\Artifacts\5d\5dbdefdeaace96477e5d5841358ae625
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5f\5f3585e6171c66e39734ecc28b33badc
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\5f\5f3585e6171c66e39734ecc28b33badc
+    projectPath: Library\Artifacts\5f\5f3585e6171c66e39734ecc28b33badc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5f\5f953498ca826106cfd0384f984b3365
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\5f\5f953498ca826106cfd0384f984b3365
+    projectPath: Library\Artifacts\5f\5f953498ca826106cfd0384f984b3365
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\63\637c05f0d08c9170a3b2c0227b10f6dd
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\63\637c05f0d08c9170a3b2c0227b10f6dd
+    projectPath: Library\Artifacts\63\637c05f0d08c9170a3b2c0227b10f6dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\64\649fb80ff8c2a0d6c487d461fca22343
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\64\649fb80ff8c2a0d6c487d461fca22343
+    projectPath: Library\Artifacts\64\649fb80ff8c2a0d6c487d461fca22343
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\65\652aba5154b684a9d3612cdbb039ba72
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\65\652aba5154b684a9d3612cdbb039ba72
+    projectPath: Library\Artifacts\65\652aba5154b684a9d3612cdbb039ba72
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\65\65db13676c0ebeb971e5c0c9b368edd0
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\65\65db13676c0ebeb971e5c0c9b368edd0
+    projectPath: Library\Artifacts\65\65db13676c0ebeb971e5c0c9b368edd0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\67\67d1234a326ff61c719d4a85e86455f8
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\67\67d1234a326ff61c719d4a85e86455f8
+    projectPath: Library\Artifacts\67\67d1234a326ff61c719d4a85e86455f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\68\68059413117da15c12b837b60bd018d5
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\68\68059413117da15c12b837b60bd018d5
+    projectPath: Library\Artifacts\68\68059413117da15c12b837b60bd018d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\69\69ad26c170f67e593e0948ed4a8b5a71
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\69\69ad26c170f67e593e0948ed4a8b5a71
+    projectPath: Library\Artifacts\69\69ad26c170f67e593e0948ed4a8b5a71
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6d\6d32f2c444f71dd8bfa2c22700bf5f6f
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\6d\6d32f2c444f71dd8bfa2c22700bf5f6f
+    projectPath: Library\Artifacts\6d\6d32f2c444f71dd8bfa2c22700bf5f6f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\71\71b7e69fd97b2665a90176b358d9d4ad
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\71\71b7e69fd97b2665a90176b358d9d4ad
+    projectPath: Library\Artifacts\71\71b7e69fd97b2665a90176b358d9d4ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\71\71c40965167cd23cb3434ca3fcf02b58
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\71\71c40965167cd23cb3434ca3fcf02b58
+    projectPath: Library\Artifacts\71\71c40965167cd23cb3434ca3fcf02b58
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\73\73e6879ee653b39800c941956833dc7b
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\73\73e6879ee653b39800c941956833dc7b
+    projectPath: Library\Artifacts\73\73e6879ee653b39800c941956833dc7b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\74\748733d88ebc21dc0260047fed2c623b
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\74\748733d88ebc21dc0260047fed2c623b
+    projectPath: Library\Artifacts\74\748733d88ebc21dc0260047fed2c623b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\75\758fe3c180bc9217786b1526802d2aa7
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\75\758fe3c180bc9217786b1526802d2aa7
+    projectPath: Library\Artifacts\75\758fe3c180bc9217786b1526802d2aa7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\77\777ef447a1af9e29e4d6c6dd049ac3ac
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\77\777ef447a1af9e29e4d6c6dd049ac3ac
+    projectPath: Library\Artifacts\77\777ef447a1af9e29e4d6c6dd049ac3ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\79\79187fa04ec6acfa029799d3ce6934e0
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\79\79187fa04ec6acfa029799d3ce6934e0
+    projectPath: Library\Artifacts\79\79187fa04ec6acfa029799d3ce6934e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7a\7a5ca71c666600f15a8b25928bc513f2
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\7a\7a5ca71c666600f15a8b25928bc513f2
+    projectPath: Library\Artifacts\7a\7a5ca71c666600f15a8b25928bc513f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7b\7b3a1718d5f69f5eb8e691e23796ac0d
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\7b\7b3a1718d5f69f5eb8e691e23796ac0d
+    projectPath: Library\Artifacts\7b\7b3a1718d5f69f5eb8e691e23796ac0d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7b\7bdc928a87484cfbf251c611ee2fb935
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\7b\7bdc928a87484cfbf251c611ee2fb935
+    projectPath: Library\Artifacts\7b\7bdc928a87484cfbf251c611ee2fb935
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7d\7d8a0a5bbf1ffd93b84425a10d5ddf7f
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\7d\7d8a0a5bbf1ffd93b84425a10d5ddf7f
+    projectPath: Library\Artifacts\7d\7d8a0a5bbf1ffd93b84425a10d5ddf7f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7d\7da950bd9582792eb7e7f2cef6cda279
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\7d\7da950bd9582792eb7e7f2cef6cda279
+    projectPath: Library\Artifacts\7d\7da950bd9582792eb7e7f2cef6cda279
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7d\7db60bda7a1f94fe79d0d0ca42c4cf18
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\7d\7db60bda7a1f94fe79d0d0ca42c4cf18
+    projectPath: Library\Artifacts\7d\7db60bda7a1f94fe79d0d0ca42c4cf18
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\81\81489fba7b97375e19bd8aa553a911af
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\81\81489fba7b97375e19bd8aa553a911af
+    projectPath: Library\Artifacts\81\81489fba7b97375e19bd8aa553a911af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\82\82819db1ae4bb8d06993cdbe660058fe
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\82\82819db1ae4bb8d06993cdbe660058fe
+    projectPath: Library\Artifacts\82\82819db1ae4bb8d06993cdbe660058fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\85\85f27e3096e0ee1f0a1d6cf1bc031a51
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\85\85f27e3096e0ee1f0a1d6cf1bc031a51
+    projectPath: Library\Artifacts\85\85f27e3096e0ee1f0a1d6cf1bc031a51
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8a\8ae74374cbb04e5a85883146eca52dcd
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\8a\8ae74374cbb04e5a85883146eca52dcd
+    projectPath: Library\Artifacts\8a\8ae74374cbb04e5a85883146eca52dcd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8a\8afb4c189ee3e5ecdb92f3b1843006b9
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\8a\8afb4c189ee3e5ecdb92f3b1843006b9
+    projectPath: Library\Artifacts\8a\8afb4c189ee3e5ecdb92f3b1843006b9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8c\8cf6d42a7b83daf351becbc91b126489
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\8c\8cf6d42a7b83daf351becbc91b126489
+    projectPath: Library\Artifacts\8c\8cf6d42a7b83daf351becbc91b126489
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8e\8e35a4880b87495ce4b84a8d49c17e6e
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\8e\8e35a4880b87495ce4b84a8d49c17e6e
+    projectPath: Library\Artifacts\8e\8e35a4880b87495ce4b84a8d49c17e6e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8e\8e479482cad638386e374a83f725dd2e
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\8e\8e479482cad638386e374a83f725dd2e
+    projectPath: Library\Artifacts\8e\8e479482cad638386e374a83f725dd2e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8f\8f33d883d29aca1c5bd88849f01ab3b9
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\8f\8f33d883d29aca1c5bd88849f01ab3b9
+    projectPath: Library\Artifacts\8f\8f33d883d29aca1c5bd88849f01ab3b9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\90\900c49b8ba6ddffce43d0e771a43c4dd
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\90\900c49b8ba6ddffce43d0e771a43c4dd
+    projectPath: Library\Artifacts\90\900c49b8ba6ddffce43d0e771a43c4dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\90\900f39a0f8636bbc9e65befb94fb334c
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\90\900f39a0f8636bbc9e65befb94fb334c
+    projectPath: Library\Artifacts\90\900f39a0f8636bbc9e65befb94fb334c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\90\907211935993a3074301d8ca035e2e33
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\90\907211935993a3074301d8ca035e2e33
+    projectPath: Library\Artifacts\90\907211935993a3074301d8ca035e2e33
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\90\907b22ee04dc24eefb993f9080640518
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\90\907b22ee04dc24eefb993f9080640518
+    projectPath: Library\Artifacts\90\907b22ee04dc24eefb993f9080640518
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\91\913e7ce904ed0e746f5aef06bcfaf5c8
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\91\913e7ce904ed0e746f5aef06bcfaf5c8
+    projectPath: Library\Artifacts\91\913e7ce904ed0e746f5aef06bcfaf5c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\92\92606aff14e6402f31d7300debd7139d
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\92\92606aff14e6402f31d7300debd7139d
+    projectPath: Library\Artifacts\92\92606aff14e6402f31d7300debd7139d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\92\92d134fb6e3a805d889d48f544bfdc23
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\92\92d134fb6e3a805d889d48f544bfdc23
+    projectPath: Library\Artifacts\92\92d134fb6e3a805d889d48f544bfdc23
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\97\971ef3c5a74d2bef6b4804cb9a43e395
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\97\971ef3c5a74d2bef6b4804cb9a43e395
+    projectPath: Library\Artifacts\97\971ef3c5a74d2bef6b4804cb9a43e395
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\97\97cb811e8076b524becc4012aa7a5b16
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\97\97cb811e8076b524becc4012aa7a5b16
+    projectPath: Library\Artifacts\97\97cb811e8076b524becc4012aa7a5b16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\98\9838cfe302a9ef7939b2bdb25302134c
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\98\9838cfe302a9ef7939b2bdb25302134c
+    projectPath: Library\Artifacts\98\9838cfe302a9ef7939b2bdb25302134c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\98\98ed23ed53ab11b03255dc05aa7371bb
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\98\98ed23ed53ab11b03255dc05aa7371bb
+    projectPath: Library\Artifacts\98\98ed23ed53ab11b03255dc05aa7371bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9b\9b96ddfaf9585cbaed85f7f907cc8adf
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\9b\9b96ddfaf9585cbaed85f7f907cc8adf
+    projectPath: Library\Artifacts\9b\9b96ddfaf9585cbaed85f7f907cc8adf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9d\9d9f13b5a9af08ebdd2a02c838cc09d7
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\9d\9d9f13b5a9af08ebdd2a02c838cc09d7
+    projectPath: Library\Artifacts\9d\9d9f13b5a9af08ebdd2a02c838cc09d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a0\a04c5d6d43c04e154254fe8e57a7ff19
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\a0\a04c5d6d43c04e154254fe8e57a7ff19
+    projectPath: Library\Artifacts\a0\a04c5d6d43c04e154254fe8e57a7ff19
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a1\a1bf4d6fa3a018cd3cd2df28992780e2
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\a1\a1bf4d6fa3a018cd3cd2df28992780e2
+    projectPath: Library\Artifacts\a1\a1bf4d6fa3a018cd3cd2df28992780e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a4\a43a3125f5157430fa8a00fda5e62e3d
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\a4\a43a3125f5157430fa8a00fda5e62e3d
+    projectPath: Library\Artifacts\a4\a43a3125f5157430fa8a00fda5e62e3d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a9\a994263dddac3da03d8b7debebd4ad81
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\a9\a994263dddac3da03d8b7debebd4ad81
+    projectPath: Library\Artifacts\a9\a994263dddac3da03d8b7debebd4ad81
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a9\a9aa48ffe4ce610b436a20cb248c9752
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\a9\a9aa48ffe4ce610b436a20cb248c9752
+    projectPath: Library\Artifacts\a9\a9aa48ffe4ce610b436a20cb248c9752
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ab\ab3754eb84bbad7570d3d516529dc7dd
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\ab\ab3754eb84bbad7570d3d516529dc7dd
+    projectPath: Library\Artifacts\ab\ab3754eb84bbad7570d3d516529dc7dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ae\ae29a7cdfa85df6dc0b94b5846804c9a
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\ae\ae29a7cdfa85df6dc0b94b5846804c9a
+    projectPath: Library\Artifacts\ae\ae29a7cdfa85df6dc0b94b5846804c9a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ae\aec83ac008649f49515a8dfb8891cb7c
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\ae\aec83ac008649f49515a8dfb8891cb7c
+    projectPath: Library\Artifacts\ae\aec83ac008649f49515a8dfb8891cb7c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b1\b1d1e4873cf892c1cf742f644de99cb3
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\b1\b1d1e4873cf892c1cf742f644de99cb3
+    projectPath: Library\Artifacts\b1\b1d1e4873cf892c1cf742f644de99cb3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b3\b3ff0294fd0d9c7769fe46f19f84fc1c
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\b3\b3ff0294fd0d9c7769fe46f19f84fc1c
+    projectPath: Library\Artifacts\b3\b3ff0294fd0d9c7769fe46f19f84fc1c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b6\b62322409ce710fa8a382b3348567d29
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\b6\b62322409ce710fa8a382b3348567d29
+    projectPath: Library\Artifacts\b6\b62322409ce710fa8a382b3348567d29
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b7\b78b7b720eb56efc8868179cb08faa7d
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\b7\b78b7b720eb56efc8868179cb08faa7d
+    projectPath: Library\Artifacts\b7\b78b7b720eb56efc8868179cb08faa7d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b9\b99a2e160cb42dce49fe7d57b00db690
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\b9\b99a2e160cb42dce49fe7d57b00db690
+    projectPath: Library\Artifacts\b9\b99a2e160cb42dce49fe7d57b00db690
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ba\ba197885e298b8dac5b629e610caa4ed
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\ba\ba197885e298b8dac5b629e610caa4ed
+    projectPath: Library\Artifacts\ba\ba197885e298b8dac5b629e610caa4ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bc\bcf909f6eff1e3f7b0205f2103edcfd3
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\bc\bcf909f6eff1e3f7b0205f2103edcfd3
+    projectPath: Library\Artifacts\bc\bcf909f6eff1e3f7b0205f2103edcfd3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\be\be1b25d56e3068cc8c1354b47d650719
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\be\be1b25d56e3068cc8c1354b47d650719
+    projectPath: Library\Artifacts\be\be1b25d56e3068cc8c1354b47d650719
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\be\beb3b712d5c530214acfaf5c70605ddf
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\be\beb3b712d5c530214acfaf5c70605ddf
+    projectPath: Library\Artifacts\be\beb3b712d5c530214acfaf5c70605ddf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bf\bf29583a65e4650016731e0962775ffb
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\bf\bf29583a65e4650016731e0962775ffb
+    projectPath: Library\Artifacts\bf\bf29583a65e4650016731e0962775ffb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c0\c046f7bec32c7c5f3a97e6841089c36a
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\c0\c046f7bec32c7c5f3a97e6841089c36a
+    projectPath: Library\Artifacts\c0\c046f7bec32c7c5f3a97e6841089c36a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c0\c0df4204a1c5062c3992f61056eae5be
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\c0\c0df4204a1c5062c3992f61056eae5be
+    projectPath: Library\Artifacts\c0\c0df4204a1c5062c3992f61056eae5be
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c1\c1c6469d72f076e8deec8328f6e196e5
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\c1\c1c6469d72f076e8deec8328f6e196e5
+    projectPath: Library\Artifacts\c1\c1c6469d72f076e8deec8328f6e196e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c2\c2dda509908f1f4a49a2ff2ec1dfb168
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\c2\c2dda509908f1f4a49a2ff2ec1dfb168
+    projectPath: Library\Artifacts\c2\c2dda509908f1f4a49a2ff2ec1dfb168
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c4\c4c8f20318d350472405945e3771d65f
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\c4\c4c8f20318d350472405945e3771d65f
+    projectPath: Library\Artifacts\c4\c4c8f20318d350472405945e3771d65f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c4\c4ffa14ad7337c5475a2bc224f8a5f64
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\c4\c4ffa14ad7337c5475a2bc224f8a5f64
+    projectPath: Library\Artifacts\c4\c4ffa14ad7337c5475a2bc224f8a5f64
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c6\c605613823a0c4ecbce206629b8a2371
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\c6\c605613823a0c4ecbce206629b8a2371
+    projectPath: Library\Artifacts\c6\c605613823a0c4ecbce206629b8a2371
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c6\c6e0b920ffef9ed5f7ef12cccc407b2a
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\c6\c6e0b920ffef9ed5f7ef12cccc407b2a
+    projectPath: Library\Artifacts\c6\c6e0b920ffef9ed5f7ef12cccc407b2a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c8\c85664e9e8bb78bdc43424cd3fa2c732
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\c8\c85664e9e8bb78bdc43424cd3fa2c732
+    projectPath: Library\Artifacts\c8\c85664e9e8bb78bdc43424cd3fa2c732
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c8\c8e0d54f0fc96b5526eb978fce676ae9
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\c8\c8e0d54f0fc96b5526eb978fce676ae9
+    projectPath: Library\Artifacts\c8\c8e0d54f0fc96b5526eb978fce676ae9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c9\c9c95914dee86165765fad5c4c0f5a92
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\c9\c9c95914dee86165765fad5c4c0f5a92
+    projectPath: Library\Artifacts\c9\c9c95914dee86165765fad5c4c0f5a92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cf\cf987f936f0dfa09cf1f28b2b0a78afd
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\cf\cf987f936f0dfa09cf1f28b2b0a78afd
+    projectPath: Library\Artifacts\cf\cf987f936f0dfa09cf1f28b2b0a78afd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cf\cf9a0fd126e206993e62409c20a708ae
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\cf\cf9a0fd126e206993e62409c20a708ae
+    projectPath: Library\Artifacts\cf\cf9a0fd126e206993e62409c20a708ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d0\d03b503893a0b5b3c431c47e13c2d5d2
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\d0\d03b503893a0b5b3c431c47e13c2d5d2
+    projectPath: Library\Artifacts\d0\d03b503893a0b5b3c431c47e13c2d5d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d0\d07991c5a24d9d3cd418e7a08e109847
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\d0\d07991c5a24d9d3cd418e7a08e109847
+    projectPath: Library\Artifacts\d0\d07991c5a24d9d3cd418e7a08e109847
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d3\d32c604677341325868e9f395944a591
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\d3\d32c604677341325868e9f395944a591
+    projectPath: Library\Artifacts\d3\d32c604677341325868e9f395944a591
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d3\d3366d2bda73552dbb3c89cedc779f91
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\d3\d3366d2bda73552dbb3c89cedc779f91
+    projectPath: Library\Artifacts\d3\d3366d2bda73552dbb3c89cedc779f91
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d6\d631f95ce2d1f52328b73a3e453aa7c3
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\d6\d631f95ce2d1f52328b73a3e453aa7c3
+    projectPath: Library\Artifacts\d6\d631f95ce2d1f52328b73a3e453aa7c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d9\d909a6ee0f9a6b99df81eda6aa928ab8
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\d9\d909a6ee0f9a6b99df81eda6aa928ab8
+    projectPath: Library\Artifacts\d9\d909a6ee0f9a6b99df81eda6aa928ab8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\da\da5fa9229ddee53be952b4e4288ec446
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\da\da5fa9229ddee53be952b4e4288ec446
+    projectPath: Library\Artifacts\da\da5fa9229ddee53be952b4e4288ec446
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\db\dbab9f3ec1163c8c9d34e2ddbd463d8d
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\db\dbab9f3ec1163c8c9d34e2ddbd463d8d
+    projectPath: Library\Artifacts\db\dbab9f3ec1163c8c9d34e2ddbd463d8d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\dc\dc188fea2efb30e69d1a6c5ab44c61c8
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\dc\dc188fea2efb30e69d1a6c5ab44c61c8
+    projectPath: Library\Artifacts\dc\dc188fea2efb30e69d1a6c5ab44c61c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\dd\dd9fcdae908f165e4c471d803c3bf229
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\dd\dd9fcdae908f165e4c471d803c3bf229
+    projectPath: Library\Artifacts\dd\dd9fcdae908f165e4c471d803c3bf229
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\de\de6269b33cb37edfcae95eb60dd84106
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\de\de6269b33cb37edfcae95eb60dd84106
+    projectPath: Library\Artifacts\de\de6269b33cb37edfcae95eb60dd84106
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e0\e004ed4b9706147013a6300a4b674937
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\e0\e004ed4b9706147013a6300a4b674937
+    projectPath: Library\Artifacts\e0\e004ed4b9706147013a6300a4b674937
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e1\e10e2ac847a025f4e41caecc90025f22
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\e1\e10e2ac847a025f4e41caecc90025f22
+    projectPath: Library\Artifacts\e1\e10e2ac847a025f4e41caecc90025f22
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e1\e116cd33db98b9bce8b65c92f78a42ba
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\e1\e116cd33db98b9bce8b65c92f78a42ba
+    projectPath: Library\Artifacts\e1\e116cd33db98b9bce8b65c92f78a42ba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e3\e3728aa6aa21ae8cb1e71954283188ad
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\e3\e3728aa6aa21ae8cb1e71954283188ad
+    projectPath: Library\Artifacts\e3\e3728aa6aa21ae8cb1e71954283188ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e3\e37aa8b7727848e1aee4e4f3043ac1e3
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\e3\e37aa8b7727848e1aee4e4f3043ac1e3
+    projectPath: Library\Artifacts\e3\e37aa8b7727848e1aee4e4f3043ac1e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e7\e70bfa18386b7578d470bb2a49a6abf4
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\e7\e70bfa18386b7578d470bb2a49a6abf4
+    projectPath: Library\Artifacts\e7\e70bfa18386b7578d470bb2a49a6abf4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e8\e8f386bc7b9e274fc2162e4667387bcd
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\e8\e8f386bc7b9e274fc2162e4667387bcd
+    projectPath: Library\Artifacts\e8\e8f386bc7b9e274fc2162e4667387bcd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ea\eaa72c483d911697442db0ec6a39e12c
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\ea\eaa72c483d911697442db0ec6a39e12c
+    projectPath: Library\Artifacts\ea\eaa72c483d911697442db0ec6a39e12c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ed\ed30990fe89413db3910182e07a1a7b2
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\ed\ed30990fe89413db3910182e07a1a7b2
+    projectPath: Library\Artifacts\ed\ed30990fe89413db3910182e07a1a7b2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ef\efe3a6003b81f3f5add444eaca593c78
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\ef\efe3a6003b81f3f5add444eaca593c78
+    projectPath: Library\Artifacts\ef\efe3a6003b81f3f5add444eaca593c78
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f0\f0c7226c289d28be4567d47509fad801
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\f0\f0c7226c289d28be4567d47509fad801
+    projectPath: Library\Artifacts\f0\f0c7226c289d28be4567d47509fad801
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f2\f28045db2c2de8a08b67269681557e62
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\f2\f28045db2c2de8a08b67269681557e62
+    projectPath: Library\Artifacts\f2\f28045db2c2de8a08b67269681557e62
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f2\f2fc323c3aeff5eb2cc1b1db12dd9959
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\f2\f2fc323c3aeff5eb2cc1b1db12dd9959
+    projectPath: Library\Artifacts\f2\f2fc323c3aeff5eb2cc1b1db12dd9959
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f8\f81049e6a9fcaae81689eab33d6af177
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\f8\f81049e6a9fcaae81689eab33d6af177
+    projectPath: Library\Artifacts\f8\f81049e6a9fcaae81689eab33d6af177
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fb\fb88e8dd188b83a9cae6979ee5b179a3
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\fb\fb88e8dd188b83a9cae6979ee5b179a3
+    projectPath: Library\Artifacts\fb\fb88e8dd188b83a9cae6979ee5b179a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fb\fbc2f65e1207a5404f9456658b634d21
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\fb\fbc2f65e1207a5404f9456658b634d21
+    projectPath: Library\Artifacts\fb\fbc2f65e1207a5404f9456658b634d21
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fd\fd2d937fc57572eb2c2a94560f472723
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Artifacts\fd\fd2d937fc57572eb2c2a94560f472723
+    projectPath: Library\Artifacts\fd\fd2d937fc57572eb2c2a94560f472723
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Collab\Cache\Window.yml
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\Collab\Cache\Window.yml
+    projectPath: Library\Collab\Cache\Window.yml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -26,35 +1076,65 @@ MonoBehaviour:
     fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
     fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\SceneVisibilityState.asset
-    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.InteractiveTutorials.Core.dll
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\ScriptAssemblies\Unity.InteractiveTutorials.Core.dll
+    projectPath: Library\ScriptAssemblies\Unity.InteractiveTutorials.Core.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.InteractiveTutorials.Core.pdb
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\ScriptAssemblies\Unity.InteractiveTutorials.Core.pdb
+    projectPath: Library\ScriptAssemblies\Unity.InteractiveTutorials.Core.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.InteractiveTutorials.Core.Scripts.dll
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\ScriptAssemblies\Unity.InteractiveTutorials.Core.Scripts.dll
+    projectPath: Library\ScriptAssemblies\Unity.InteractiveTutorials.Core.Scripts.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.InteractiveTutorials.Core.Scripts.pdb
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\ScriptAssemblies\Unity.InteractiveTutorials.Core.Scripts.pdb
+    projectPath: Library\ScriptAssemblies\Unity.InteractiveTutorials.Core.Scripts.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.InteractiveTutorialsFramework.dll
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\ScriptAssemblies\UnityEditor.InteractiveTutorialsFramework.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.InteractiveTutorialsFramework.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.InteractiveTutorialsFramework.pdb
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\ScriptAssemblies\UnityEditor.InteractiveTutorialsFramework.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.InteractiveTutorialsFramework.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -70,123 +1150,369 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\AssetImportWorker0-prev.log
-    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\AssetImportWorker0-prev.log
-    projectPath: Logs\AssetImportWorker0-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe10.log
-    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe10.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe10.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe11.log
-    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe11.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe11.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe12.log
-    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe12.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe12.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe13.log
-    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe13.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe13.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe14.log
-    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe14.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe14.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe15.log
-    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe15.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe15.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe5.log
-    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe5.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe6.log
-    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe6.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe7.log
-    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe7.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe8.log
-    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe8.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe8.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe9.log
-    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe9.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe9.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Temp\UnityLockfile
-    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityLockfile
-    projectPath: Temp\UnityLockfile
+  - path: Temp\Assembly-CSharp.dll.hash
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\Assembly-CSharp.dll.hash
+    projectPath: Temp\Assembly-CSharp.dll.hash
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\workerlic
-    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\workerlic
-    projectPath: Temp\workerlic
+  - path: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    projectPath: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Temp\CompilationLog.txt
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\CompilationLog.txt
+    projectPath: Temp\CompilationLog.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.CollabProxy.Editor.dll.hash
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\Unity.CollabProxy.Editor.dll.hash
+    projectPath: Temp\Unity.CollabProxy.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.EditorCoroutines.Editor.dll.hash
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\Unity.EditorCoroutines.Editor.dll.hash
+    projectPath: Temp\Unity.EditorCoroutines.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.InteractiveTutorials.Core.dll.hash
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\Unity.InteractiveTutorials.Core.dll.hash
+    projectPath: Temp\Unity.InteractiveTutorials.Core.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.InteractiveTutorials.Core.Scripts.dll.hash
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\Unity.InteractiveTutorials.Core.Scripts.dll.hash
+    projectPath: Temp\Unity.InteractiveTutorials.Core.Scripts.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.PlasticSCM.Editor.dll.hash
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\Unity.PlasticSCM.Editor.dll.hash
+    projectPath: Temp\Unity.PlasticSCM.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.Rider.Editor.dll.hash
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\Unity.Rider.Editor.dll.hash
+    projectPath: Temp\Unity.Rider.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.Settings.Editor.dll.hash
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\Unity.Settings.Editor.dll.hash
+    projectPath: Temp\Unity.Settings.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.TextMeshPro.dll.hash
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\Unity.TextMeshPro.dll.hash
+    projectPath: Temp\Unity.TextMeshPro.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.TextMeshPro.Editor.dll.hash
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\Unity.TextMeshPro.Editor.dll.hash
+    projectPath: Temp\Unity.TextMeshPro.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.Timeline.dll.hash
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\Unity.Timeline.dll.hash
+    projectPath: Temp\Unity.Timeline.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.Timeline.Editor.dll.hash
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\Unity.Timeline.Editor.dll.hash
+    projectPath: Temp\Unity.Timeline.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.VisualStudio.Editor.dll.hash
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\Unity.VisualStudio.Editor.dll.hash
+    projectPath: Temp\Unity.VisualStudio.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\Unity.VSCode.Editor.dll.hash
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\Unity.VSCode.Editor.dll.hash
+    projectPath: Temp\Unity.VSCode.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEditor.InteractiveTutorialsFramework.dll.hash
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityEditor.InteractiveTutorialsFramework.dll.hash
+    projectPath: Temp\UnityEditor.InteractiveTutorialsFramework.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEditor.TestRunner.dll.hash
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityEditor.TestRunner.dll.hash
+    projectPath: Temp\UnityEditor.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEditor.UI.dll.hash
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityEditor.UI.dll.hash
+    projectPath: Temp\UnityEditor.UI.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.TestRunner.dll.hash
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityEngine.TestRunner.dll.hash
+    projectPath: Temp\UnityEngine.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityEngine.UI.dll.hash
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityEngine.UI.dll.hash
+    projectPath: Temp\UnityEngine.UI.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0d27ea2c07662124c929988d6e28b670
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-0d27ea2c07662124c929988d6e28b670
+    projectPath: Temp\UnityTempFile-0d27ea2c07662124c929988d6e28b670
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-168ec505b2e3f3e4cb1a9fd14b47476a
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-168ec505b2e3f3e4cb1a9fd14b47476a
+    projectPath: Temp\UnityTempFile-168ec505b2e3f3e4cb1a9fd14b47476a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-29ac3179cd52e9141919d224ab8f9336
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-29ac3179cd52e9141919d224ab8f9336
+    projectPath: Temp\UnityTempFile-29ac3179cd52e9141919d224ab8f9336
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-34fa6cdf7001e084a8a86c9d436224a3
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-34fa6cdf7001e084a8a86c9d436224a3
+    projectPath: Temp\UnityTempFile-34fa6cdf7001e084a8a86c9d436224a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3d4debe13ac90584f9ab95c4dfa12a87
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-3d4debe13ac90584f9ab95c4dfa12a87
+    projectPath: Temp\UnityTempFile-3d4debe13ac90584f9ab95c4dfa12a87
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4bf66d9c36784c64f91123b6fc163c4c
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-4bf66d9c36784c64f91123b6fc163c4c
+    projectPath: Temp\UnityTempFile-4bf66d9c36784c64f91123b6fc163c4c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5e9747fd3f940094abbdcdf001be3b5a
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-5e9747fd3f940094abbdcdf001be3b5a
+    projectPath: Temp\UnityTempFile-5e9747fd3f940094abbdcdf001be3b5a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7110a68e7ad507248a8c3f13eae21f94
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-7110a68e7ad507248a8c3f13eae21f94
+    projectPath: Temp\UnityTempFile-7110a68e7ad507248a8c3f13eae21f94
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7521dee8568a3e54486dcc79dd2a790b
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-7521dee8568a3e54486dcc79dd2a790b
+    projectPath: Temp\UnityTempFile-7521dee8568a3e54486dcc79dd2a790b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7d5dbfd91709b144a89791e75d96b149
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-7d5dbfd91709b144a89791e75d96b149
+    projectPath: Temp\UnityTempFile-7d5dbfd91709b144a89791e75d96b149
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7d829f74a873f4643adfef52a5b341df
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-7d829f74a873f4643adfef52a5b341df
+    projectPath: Temp\UnityTempFile-7d829f74a873f4643adfef52a5b341df
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-846ae6fc94b32a44a89ccbae4fb703ea
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-846ae6fc94b32a44a89ccbae4fb703ea
+    projectPath: Temp\UnityTempFile-846ae6fc94b32a44a89ccbae4fb703ea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-84a45d116f16af94c8d5e67cd4dc4e61
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-84a45d116f16af94c8d5e67cd4dc4e61
+    projectPath: Temp\UnityTempFile-84a45d116f16af94c8d5e67cd4dc4e61
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-89e56ddad5de4214bafa0a7cdc03bd75
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-89e56ddad5de4214bafa0a7cdc03bd75
+    projectPath: Temp\UnityTempFile-89e56ddad5de4214bafa0a7cdc03bd75
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8fc256a49c6ebef409461e9d042747f3
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-8fc256a49c6ebef409461e9d042747f3
+    projectPath: Temp\UnityTempFile-8fc256a49c6ebef409461e9d042747f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-90b3db02e9089944e8214d0d8ca159dc
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-90b3db02e9089944e8214d0d8ca159dc
+    projectPath: Temp\UnityTempFile-90b3db02e9089944e8214d0d8ca159dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-951151d5c2ece544987f822194b4603e
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-951151d5c2ece544987f822194b4603e
+    projectPath: Temp\UnityTempFile-951151d5c2ece544987f822194b4603e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9f06d81cd4c6f0a41929cffc82a32cfe
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-9f06d81cd4c6f0a41929cffc82a32cfe
+    projectPath: Temp\UnityTempFile-9f06d81cd4c6f0a41929cffc82a32cfe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9f59aaf5accb59a4fb66fabae85f0d96
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-9f59aaf5accb59a4fb66fabae85f0d96
+    projectPath: Temp\UnityTempFile-9f59aaf5accb59a4fb66fabae85f0d96
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-acb92e9782b648b41a7e2b7a5c3bc236
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-acb92e9782b648b41a7e2b7a5c3bc236
+    projectPath: Temp\UnityTempFile-acb92e9782b648b41a7e2b7a5c3bc236
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b062c734d1732ef409693ed92b5af559
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-b062c734d1732ef409693ed92b5af559
+    projectPath: Temp\UnityTempFile-b062c734d1732ef409693ed92b5af559
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b2c7bab8fe77bc04bb37869e8c336e8e
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-b2c7bab8fe77bc04bb37869e8c336e8e
+    projectPath: Temp\UnityTempFile-b2c7bab8fe77bc04bb37869e8c336e8e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c1039736d4e6ef54a9cf0068d300fca7
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-c1039736d4e6ef54a9cf0068d300fca7
+    projectPath: Temp\UnityTempFile-c1039736d4e6ef54a9cf0068d300fca7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c2200733623ead24c9f7f84b3a05e954
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-c2200733623ead24c9f7f84b3a05e954
+    projectPath: Temp\UnityTempFile-c2200733623ead24c9f7f84b3a05e954
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cd26d6710977c414cb0094c9da726b1a
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-cd26d6710977c414cb0094c9da726b1a
+    projectPath: Temp\UnityTempFile-cd26d6710977c414cb0094c9da726b1a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cde3abd13628f97428afb3341fee4ee7
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-cde3abd13628f97428afb3341fee4ee7
+    projectPath: Temp\UnityTempFile-cde3abd13628f97428afb3341fee4ee7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cf95a066cebbb4b4ea522d5a3e24fbe8
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-cf95a066cebbb4b4ea522d5a3e24fbe8
+    projectPath: Temp\UnityTempFile-cf95a066cebbb4b4ea522d5a3e24fbe8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d37cff31d86e5544bbdb52871043a23f
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-d37cff31d86e5544bbdb52871043a23f
+    projectPath: Temp\UnityTempFile-d37cff31d86e5544bbdb52871043a23f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-da57d1df132335d42a45c58712ffbb63
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-da57d1df132335d42a45c58712ffbb63
+    projectPath: Temp\UnityTempFile-da57d1df132335d42a45c58712ffbb63
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e926a9b4b7bb8fc4b98d6b39f9501056
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-e926a9b4b7bb8fc4b98d6b39f9501056
+    projectPath: Temp\UnityTempFile-e926a9b4b7bb8fc4b98d6b39f9501056
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e9ecc87aa14a0bc4384aa34ee4aa968f
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-e9ecc87aa14a0bc4384aa34ee4aa968f
+    projectPath: Temp\UnityTempFile-e9ecc87aa14a0bc4384aa34ee4aa968f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-eb0fd474e21f10f47a7f4edcb870a609
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-eb0fd474e21f10f47a7f4edcb870a609
+    projectPath: Temp\UnityTempFile-eb0fd474e21f10f47a7f4edcb870a609
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ec4fdc57624bc0345bcb798c7463d35c
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-ec4fdc57624bc0345bcb798c7463d35c
+    projectPath: Temp\UnityTempFile-ec4fdc57624bc0345bcb798c7463d35c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f0c9ee72031d1c548a08596515a96369
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-f0c9ee72031d1c548a08596515a96369
+    projectPath: Temp\UnityTempFile-f0c9ee72031d1c548a08596515a96369
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f2b731c0d6a221b4ebb8e5075d0c3531
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-f2b731c0d6a221b4ebb8e5075d0c3531
+    projectPath: Temp\UnityTempFile-f2b731c0d6a221b4ebb8e5075d0c3531
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f34d61d52005f8d44b2730755f0d12e0
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-f34d61d52005f8d44b2730755f0d12e0
+    projectPath: Temp\UnityTempFile-f34d61d52005f8d44b2730755f0d12e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f429212598d4f8f48932837131ffc90c
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityTempFile-f429212598d4f8f48932837131ffc90c
+    projectPath: Temp\UnityTempFile-f429212598d4f8f48932837131ffc90c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity.InteractiveTutorials.Core.csproj
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Unity.InteractiveTutorials.Core.csproj
+    projectPath: Unity.InteractiveTutorials.Core.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity.InteractiveTutorials.Core.Scripts.csproj
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Unity.InteractiveTutorials.Core.Scripts.csproj
+    projectPath: Unity.InteractiveTutorials.Core.Scripts.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UnityEditor.InteractiveTutorialsFramework.csproj
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\UnityEditor.InteractiveTutorialsFramework.csproj
+    projectPath: UnityEditor.InteractiveTutorialsFramework.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
