@@ -1,0 +1,192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-12-10T22:32:00.706-06:00
+  initializedAtString: 2021-12-10T22:31:52.350-06:00
+  entries:
+  - path: Library\ArtifactDB
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SceneVisibilityState.asset
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SourceAssetDB
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\AssetImportWorker0-prev.log
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe10.log
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe10.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe10.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe11.log
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe11.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe11.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe12.log
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe12.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe12.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe13.log
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe13.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe13.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe14.log
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe14.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe14.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe15.log
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe15.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe15.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe8.log
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe8.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe8.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe9.log
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Logs\shadercompiler-UnityShaderCompiler.exe9.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe9.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\UnityLockfile
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\workerlic
+    fullPath: A:\CLASSES\FALL 2021\Capstone\Project Collaborate\Capstone\Temp\workerlic
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
