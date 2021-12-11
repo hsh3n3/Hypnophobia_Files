@@ -1,0 +1,138 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        1
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Library/Il2cppBuildCache/Windows/x64/Native/GameAssembly.dll",
+      "Action": "A:\\Unity\\2020.3.18f1\\Editor\\Data\\il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --compile-cpp --libil2cpp-static --platform=\"WindowsDesktop\" --architecture=\"x64\" --configuration=\"Release\" --outputpath=\"A:\\CLASSES\\FALL 2021\\Capstone\\Project Collaborate\\Capstone\\Library/Il2cppBuildCache/Windows/x64\\Native\\GameAssembly.dll\" --cachedirectory=\"A:\\CLASSES\\FALL 2021\\Capstone\\Project Collaborate\\Capstone\\Assets\\..\\Library/il2cpp_cache\" --baselib-directory=\"A:/Unity/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport\\Variations\\win64_nondevelopment_il2cpp\" --avoid-dynamic-library-copy --profiler-report --map-file-parser=A:/Unity/2020.3.18f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe --directory=\"A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed\" --generatedcppdir=\"A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Library/Il2cppBuildCache/Windows/x64/il2cppOutput\"",
+      "Inputs": [
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/Mono.Security.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/mscorlib.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/System.Configuration.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/System.Core.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/System.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/System.Xml.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.AIModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.AssetBundleModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.DirectorModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.GridModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.InputModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.TerrainModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.VFXModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.VideoModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.VRModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.WindModule.dll",
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Temp/StagingArea/Data/Managed/UnityEngine.XRModule.dll",
+        "A:/Unity/2020.3.18f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe",
+        "A:/Unity/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_nondevelopment_il2cpp/baselib.dll.lib",
+        "A:/Unity/2020.3.18f1/Editor/Data/il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe"
+      ],
+      "Outputs": [
+        "A:/CLASSES/FALL 2021/Capstone/Project Collaborate/Capstone/Library/Il2cppBuildCache/Windows/x64/Native/GameAssembly.dll"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../../../../../../Unity/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_nondevelopment_il2cpp"
+    },
+    {
+      "File": "../../../../Temp/StagingArea/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../../Temp/StagingArea/Data/Managed"
+    },
+    {
+      "Path": "../../../../../../../../../Unity/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_nondevelopment_il2cpp",
+      "Recurse": 1
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+  "DirectoriesCausingImplicitDependencies": [],
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}
