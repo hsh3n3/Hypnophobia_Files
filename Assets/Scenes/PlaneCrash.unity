@@ -15698,7 +15698,7 @@ MonoBehaviour:
   zoneFogColor: {r: 0, g: 0, b: 0, a: 1}
   inFog: 0
   zoneFogDensity: 0.005
-  VolumeDistance: 101
+  VolumeDistance: 150
 --- !u!135 &587253931
 SphereCollider:
   m_ObjectHideFlags: 0
